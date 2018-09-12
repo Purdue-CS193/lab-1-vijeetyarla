@@ -1,7 +1,7 @@
 ## Did I get an A+?
-# My favorite things about CS193
-- My wonderful instructors
-- Look at the first bullet
+# Vijeet Yarlagadda
+## Information
+Student at Purdue University - West Lafayette
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
